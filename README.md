@@ -1,6 +1,6 @@
 # Hi there, I'm Antony Toro Zapata 👋
 
-### 🚀 Software Development Student | Backend & Full-Stack Developer
+### 🚀 Software Development Student | Backend 
 
 <p align="center">
   <a href="mailto:torozaapata2009@gmail.com">📧 Email</a> •

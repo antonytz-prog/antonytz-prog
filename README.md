@@ -1,115 +1,124 @@
-Hi there, I'm Antony Toro Zapata 👋
-🚀 Software Development Student | Backend & Full-Stack Developer
+# Hi there, I'm Antony Toro Zapata 👋
+
+### 🚀 Software Development Student | Backend & Full-Stack Developer
 
 <p align="center">
-<a href="mailto:torozaapata2009@gmail.com">📧 Contact Me</a>
+  <a href="mailto:torozaapata2009@gmail.com">📧 Email</a> •
+  <a href="tel:+573024559095">📱 +57 302 455 9095</a> •
+  📍 Medellín, Colombia
 </p>
 
-👨‍💻 Sobre mí
+---
 
-Soy estudiante de Tecnología en Desarrollo de Software en el SENA, en el Centro Textil y de Gestión Industrial. Me apasiona el ciclo de vida del software, la arquitectura de bases de datos relacionales y el desarrollo backend seguro y eficiente.
+## 👨‍💻 Sobre Mí
 
-🎓 Formación: Tecnólogo en Desarrollo de Software (SENA) y Técnico en Desarrollo de Software (Media Técnica).
-💼 Experiencia: Aprendiz de Desarrollo de Software en proyectos formativos SENA y desarrollador web freelance.
-🛡️ Enfoque en calidad: Consultas preparadas (parameter binding) para prevenir vulnerabilidades y estructuración de requerimientos bajo el estándar ISO/IEC 25010.
-🎯 Objetivo: Aplicar mis competencias técnicas en desarrollo backend y full-stack en entornos profesionales.
-🛠️ Technical Skills
-💻 Lenguajes de programación
+Soy estudiante de **Tecnología en Desarrollo de Software en el SENA**, en el **Centro Textil y de Gestión Industrial**, ubicado en Colombia. Me interesa el desarrollo de aplicaciones web, el diseño de bases de datos relacionales y la construcción de soluciones **backend y full-stack**.
+
+Actualmente desarrollo proyectos formativos y personales en los que aplico buenas prácticas de programación, modelado de bases de datos, desarrollo web y control de versiones.
+
+- 🎓 **Formación:** Tecnología en Desarrollo de Software – SENA.
+- 📍 **Ubicación:** Medellín, Colombia.
+- 💻 **Experiencia:** Desarrollo de proyectos formativos y proyectos web personales.
+- 🗄️ **Especialidad:** Desarrollo backend, bases de datos relacionales y desarrollo web.
+- 🛡️ **Buenas prácticas:** Uso de consultas parametrizadas, validación de datos y organización estructurada del código.
+- 📋 **Metodologías:** Levantamiento y documentación de requisitos funcionales y no funcionales.
+- 🎯 **Objetivo:** Seguir fortaleciendo mis competencias como desarrollador backend/full-stack y adquirir experiencia en entornos profesionales.
+
+---
+
+## 🛠️ Technical Skills
+
+### 💻 Lenguajes y Tecnologías
 
 <p>
-<img src="https://skillicons.dev/icons?i=php,js,html,css" alt="PHP, JavaScript, HTML y CSS" />
+  <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="PHP, JavaScript, HTML5 y CSS3" />
 </p>
 
-⚙️ Backend & Bases de datos
+### ⚙️ Backend & Bases de Datos
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" alt="Node.js, Express, MySQL y PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres" alt="Node.js, Express, MySQL y PostgreSQL" />
 </p>
 
-🎨 Frontend & UI/UX
+### 🎨 Frontend & UI
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS y Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" alt="React, Tailwind CSS y Bootstrap" />
 </p>
 
-🔧 Herramientas & DevOps
+### 🔧 Tools & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, VS Code y Linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Git, GitHub, Visual Studio Code y Linux" />
 </p>
 
-🧠 Habilidades blandas
-Habilidad	Descripción
-🧩 Resolución de problemas	Análisis y depuración de código, optimización del rendimiento y solución de vulnerabilidades.
-👥 Trabajo en equipo	Colaboración mediante Git, revisión de código y trabajo conjunto en proyectos.
-🗣️ Comunicación asertiva	Identificación de requerimientos funcionales y no funcionales.
-📋 Calidad del software	Documentación de casos de uso y aplicación de criterios de calidad basados en ISO/IEC 25010.
-⚡ Aprendizaje continuo	Adaptación a tecnologías backend y frontend según las necesidades del proyecto.
-📂 Proyectos destacados
-🌟 SkillMatch
+---
 
-Sistema integral para la búsqueda de empleo.
+## 🧠 Soft Skills
 
-Especificación de requerimientos y diagramas UML.
-Backend estructurado y base de datos relacional.
-Tecnologías: PHP MySQL UML
+| Habilidad | Aplicación Profesional |
+|---|---|
+| 🧩 **Resolución de Problemas** | Análisis de errores, depuración de código y búsqueda de soluciones eficientes. |
+| 👥 **Trabajo en Equipo** | Colaboración mediante Git y GitHub, organización de tareas y trabajo con proyectos compartidos. |
+| 🗣️ **Comunicación** | Comprensión y documentación de requisitos funcionales y no funcionales. |
+| 📋 **Organización** | Estructuración de proyectos, bases de datos y documentación técnica. |
+| ⚡ **Adaptabilidad** | Capacidad para aprender y trabajar con diferentes tecnologías de desarrollo. |
 
-🔗 Ver repositorio
+---
 
-📅 App de Gestión de Citas Laborales
+## 📂 Featured Projects
 
-Aplicación web para organizar y administrar agendas y citas laborales.
+### 🌟 SkillMatch
 
-Organización de calendarios y programación de citas.
-Interfaz web para facilitar la coordinación de actividades.
-Tecnologías: JavaScript React Node.js CSS3
+> **Plataforma web para la gestión de empleo para aprendices del SENA.**
 
-🔗 Ver repositorio
+SkillMatch permite a los aprendices crear y gestionar su perfil profesional, generar su hoja de vida, consultar oportunidades laborales y realizar postulaciones.
 
-🔐 API REST de Autenticación
+**Tecnologías utilizadas:**
 
-Servicio backend para la gestión de usuarios y autenticación.
+<p>
+  <img src="https://skillicons.dev/icons?i=php,js,html,css,mysql,bootstrap,git,github" alt="PHP, JavaScript, HTML, CSS, MySQL, Bootstrap, Git y GitHub" />
+</p>
 
-Validación de datos de entrada.
-Consultas preparadas y acceso seguro a la base de datos.
-Tecnologías: PHP Node.js PostgreSQL MySQL REST API
+**Principales funcionalidades:**
 
-🔗 Ver repositorio
+- 👤 Gestión de perfiles profesionales.
+- 📄 Creación y gestión de hojas de vida.
+- 🔎 Consulta de oportunidades laborales.
+- 📬 Postulación a ofertas de empleo.
+- 🗄️ Gestión de información mediante base de datos relacional.
 
-💻 Código destacado: PHP & Seguridad
-<?php
+🔗 **Repositorio:** [SkillMatch](https://github.com/Mockkkaa/Skillmatch_prototipo)
 
-class UserRepository
-{
-    private PDO $connection;
+---
 
-    public function __construct(PDO $connection)
-    {
-        $this->connection = $connection;
-    }
+## 📈 Currently Learning
 
-    public function getUserByEmail(string $email): ?array
-    {
-        $sql = "SELECT id, username, email, role
-                FROM users
-                WHERE email = :email
-                LIMIT 1";
+- 🟢 Desarrollo Backend con Node.js y Express.
+- 🗄️ Diseño y optimización de bases de datos.
+- 🔐 Buenas prácticas de seguridad en aplicaciones web.
+- ⚛️ Desarrollo Frontend con React.
+- 🚀 Integración de APIs y servicios web.
 
-        $stmt = $this->connection->prepare($sql);
+---
 
-        $stmt->bindValue(':email', $email, PDO::PARAM_STR);
-        $stmt->execute();
-
-        $data = $stmt->fetch(PDO::FETCH_ASSOC);
-
-        return $data ?: null;
-    }
-}
-
-📫 Contacto
-📧 Email: torozaapata2009@gmail.com
-💻 GitHub: Mis repositorios
+## 📫 Contact
 
 <p align="center">
-💡 <i>Always learning, building and improving.</i>
+  <a href="mailto:torozaapata2009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="tel:+573024559095">
+    <img src="https://img.shields.io/badge/Phone-%2B57%20302%20455%209095-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+  </a>
+</p>
+
+<p align="center">
+  📍 <strong>Medellín, Colombia</strong>
+</p>
+
+---
+
+<p align="center">
+  <strong>💻 Building, Learning and Improving Every Day 🚀</strong>
 </p>
